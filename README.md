@@ -1,4 +1,4 @@
-A Basic website navigation bar
+A basic website navigation bar
 
 This project consists of a HTML list of links which have 
 been manipulated considering The Box Model in CSS to form
