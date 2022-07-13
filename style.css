@@ -1,0 +1,25 @@
+* {
+    font-family: Helvetica, Arial, Helvetica, sans-serif;
+    font-size: small;
+}
+
+.navigation {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: flex-start;
+    list-style: none;
+}
+
+.navigation a {
+    background-color: rgb(179, 57, 81);
+    text-decoration: none;
+    display: inline-block;
+    padding: 1em 2em;
+    color: #fff;
+    margin: 3px;
+}
+
+.navigation a:hover {
+    background-color: rgb(66, 28, 40);
+    color: #fff
+}
