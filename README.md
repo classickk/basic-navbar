@@ -6,6 +6,7 @@ a horizontal navigation bar.  Hovering the cursor over a
 link causes it's background colour to change.
 
 #### Credits:
-    * https://www.theodinproject.com/lessons/foundations-the-box-model
 
-    * https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model#using_display_inline-block
+    - [Mozilla: The Box Model](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model#using_display_inline-block)
+    
+    - [The Odin Project: Foundations The Box Model](https://www.theodinproject.com/lessons/foundations-the-box-model)
